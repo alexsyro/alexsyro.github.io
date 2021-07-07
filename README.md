@@ -1,1 +1,3 @@
-## Bla bla bla
+## Release 0
+
+Testing Git pages option
